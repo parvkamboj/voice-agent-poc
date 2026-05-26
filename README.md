@@ -1,6 +1,6 @@
 # Voice Agent
 
-A POC I built to explore real-time AI voice agents using LiveKit. The idea was simple: how quickly can you wire up a full voice pipeline — mic input, speech recognition, an LLM, and text-to-speech — and have it feel like an actual conversation?
+A POC I built to explore real-time AI voice agents using LiveKit. The idea was simple: how quickly can you wire up a full voice pipeline — mic input, speech recognition, an LLM, and text-to-speech — and have it feel like an actual conversation.
 
 The answer is surprisingly fast once you have the right pieces. This demo lets you tweak the agent's personality, model, and voice in the browser without restarting anything.
 
