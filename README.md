@@ -42,3 +42,4 @@ The interesting part is that the agent config (system prompt, voice, model, temp
 - Interruption detection and barge-in handling
 - Streaming transcript (word-by-word) instead of per-turn
 - A way to save and reload named agent presets
+- Blablabla
